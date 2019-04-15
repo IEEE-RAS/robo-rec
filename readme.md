@@ -6,7 +6,7 @@ Formas de ensinar lógica de programação crianças, de forma lúdica, além 
 
 **Objetivo Geral:** Construção de um robô controlado por um tabuleiro de encaixe. Esse tabuleiro é uma central de comandos, cada encaixe possui um comando específico como: (para frente, virar a esquerda, virar a direita, parar e andar para trás), o foco da brincadeira e fazer a criança concluir o percurso da história.
 
-Objetivos específicos:
+**Objetivos específicos:**
 
  - [ ] Design do robô em acrílico
  - [ ] Construção do robô com possibilidade de movimentação
