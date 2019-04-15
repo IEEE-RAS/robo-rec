@@ -8,12 +8,12 @@ Formas de ensinar lógica de programação crianças, de forma lúdica, além 
 
 Objetivos específicos:
 
-- [] Design do robô em acrílico
-- [] Construção do robô com possibilidade de movimentação
-- [] Mapeamento da potência do motor do robô para controlar corretamente os movimentos de rotação
-- [] Adição de botões na parte superior do robô para gravar os movimentos que ele efetuará
-- [] Testar com crianças para validar o projeto
-- [] Adição de display LCD na frente do robô para exibir quais movimentos estão gravados.
-- [] Integração do robô como modulo bluetooth para aceitar controle de forma remota
-- [] Construção do tabuleiro de encaixe para programar o movimento do robô
-- [] Testar com crianças para validar o projeto
+ - [ ] Design do robô em acrílico
+ - [ ] Construção do robô com possibilidade de movimentação
+ - [ ] Mapeamento da potência do motor do robô para controlar corretamente os movimentos de rotação
+ - [ ] Adição de botões na parte superior do robô para gravar os movimentos que ele efetuará
+ - [ ] Testar com crianças para validar o projeto
+ - [ ] Adição de display LCD na frente do robô para exibir quais movimentos estão gravados.
+ - [ ] Integração do robô como modulo bluetooth para aceitar controle de forma remota
+ - [ ] Construção do tabuleiro de encaixe para programar o movimento do robô
+ - [ ] Testar com crianças para validar o projeto
